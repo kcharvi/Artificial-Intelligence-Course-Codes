@@ -1,6 +1,6 @@
 # Artificial-Intelligence
 
-<img src="https://github.com/kcharvi/Artificial-Intelligence-Course-Codes/blob/main/assets/image.jpg">
+<img src="https://github.com/kcharvi/Artificial-Intelligence-Course-Codes/blob/main/assets/image.png">
 
 > Introduction To Al And Production Systems	: AI-Problem formulation, Problem Definition -Production systems, Control strategies, Search strategies. Problem characteristics, Production system characteristics -Specialized production system.
 
